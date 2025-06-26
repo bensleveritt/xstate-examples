@@ -1,4 +1,4 @@
-/*
+/**
  * Simple traffic light machine
  *
  * This machine represents a traffic light with three states: red, yellow, and green.

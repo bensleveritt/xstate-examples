@@ -1,0 +1,18 @@
+{
+  "name": "xstate-examples",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc && vite build",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "typescript": "~5.8.3",
+    "vite": "^7.0.0",
+    "vitest": "^3.2.4"
+  },
+  "dependencies": {
+    "xstate": "^5.20.0"
+  }
+}

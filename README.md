@@ -19,3 +19,7 @@ It's so basic that you'd wonder why you'd want to model it as a state machine. H
 ### Simple traffic light
 
 A toy traffic light that can be in one of three states: red, yellow, or green. Demonstrating multiple transitions.
+
+### UK traffic light
+
+A traffic light that has 4 states, with 3 outputs: red, amber, and green. The difference is that the amber state is split into two separate states: red -> red/amber -> green -> amber -> red.

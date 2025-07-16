@@ -22,4 +22,4 @@ A toy traffic light that can be in one of three states: red, yellow, or green. D
 
 ### UK traffic light
 
-A traffic light that has 4 states, with 3 outputs: red, amber, and green. The difference is that the amber state is split into two separate states: red -> red/amber -> green -> amber -> red.
+A traffic light that has 4 states, with 3 outputs: red, amber, and green. The difference is that the amber state is split into two separate states: red (stop) -> red/amber (prepare to go) -> green (go) -> amber (prepare to stop) -> red (stop again).
